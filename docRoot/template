@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> My Sample Document</title>
+		<base href://localhost:8888">
+		<link rel="icon" href="http=://holub.com/favicon.ico">
+		<link rel="shortcuticon" href="http://holub.com/favicon.ico">
+		<link rel="stylesheet" href="http://holub.com/holub.css">
+
+		<style>
+
+		</style>
+
+		<script type="text/javascript"
+				src="http://server.com/scripts.js"></script>
+		<meta charset ="UTF-8">
+		<meta name = "description" content="Describe the site">
+		<meta name = "author" content="00 Design, Object-oriented design">
+		<meta name = "keywords" content="Gongbo Yang">
+
+		<meta name="viewport"
+				content="width=device=width, initial-scale=1.0">
+	</head>
+	<body>
+		<a name="top">
+		<!--commonet-->
+		<h1>Hello</h1>
+		<h2>Hello</h2>
+		<h3>Hello</h3>
+		<h4>Hello</h4>
+		<h5>Hello</h5>
+		<h6>Hello</h6>
+		<p>
+		Some tect<br>
+		<a href="http://holub.com">My web page. </a>
+		<hr>
+		<strong>boldface</strong> <em>italic</em> <strike>strike</strike>	
+		<code> thisisafucntioncall() &lt; x</code>
+		<img src="http://holub.com/image/Holub.ogo-190*190.jpg"
+			alt="Holub.com logo" height="50px" width="50px" >
+			</img>
+		<a target="_blank" href="http://holub.com">Allen's Web site</a>
+		<a href="#top">Go to top.</a>
+
+		<dl>
+			<dt>Term 1</dt><dd>Definition 1</dd>
+			<dt>Term 2</dt><dd>Definition 2</dd>
+			<dt>Term 3</dt><dd>Defsdflksjflksjflskdjflsjflkdjflskdjflsjflksdjflsdkfjlsdkfjsdf</dd>
+			<pre>
+			f(){
+			hello();
+			}
+			</pre>
+
+			<ul>
+			<li>item 1</li>
+			<li>item 2</li>
+			<li>item 3
+				<ol>
+				<li>item 1</li>
+			</ol>
+			</li>
+			</ul>
+
+			<blockquote>sdfsdfsdfsfsdfsdfsdfsdf</blockquote>
+			<div style="margin-left:.5in; color:red;">
+				This is quite a bit of
+				<span style="color:blue">text</span>
+				sdfsdfsdfsfsdfsdfsdfsdf
+			</div>
+
+
+	</body>
+</html>
