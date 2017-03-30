@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en-US">>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Resume  >>  Gongbo Yang</title>
+	</head>
+	<body>
+
+		<section id="education">
+			<h1 style="text-align:center;font-size:300%">Gongbo Yang</h1>
+				<pre style="text-align:center;font-size:130%"> Rose street, Berkeley, California 94708<br>   (+1) 5109935488<br>   <i>&nbsp;&nbsp;&nbsp;gongboyang@berkeley.edu</i></pre>
+		</section>
+
+    <section>
+			
+        <hr>
+        <h2 style="text-align:left;font-size:200%"><strong>Education</strong></h2>
+        <pre style="text-align:left;font-size:150%"><strong>Department of EECS, UC Berkeley, USA</strong>                                                         Aug 2016 ~ Present
+        </pre>
+
+        <p style="font-size:110%">Relevant Coursework:</p>
+        <ul> 
+            <li>(EE106A) Introduction to Robotics</li>
+            <li>(EE106B) Robotic Manipulation and Interaction</li>
+            <li>(EE145) Medical Imaging Signals and Systems</li>
+            <li>(CS61B) Data Structure</li>
+        </ul>
+        <br>
+        <br>
+
+        <pre style="text-align:left;font-size:150%"><strong>Department of Automation Control, Beijing Institute of Technology, China</strong>         Aug 2013 ~ June 2017 (expected)
+        </pre>
+
+    		<p>
+        <ul>
+          <li>B.E. in Electrical Engineering, expected in June 2017</li>
+          <li>Cumulative GPA: 90.93/100</li>
+          <li>Major GPA: 93.37/100 </li> 
+        </p>
+
+		
+    </section>
+
+    <section>
+		<hr>
+        <h2 style="text-align:left;font-size:200%"><strong>Research Experience</strong></h2>
+
+          <ol type="I";>
+
+            <h3 style="text-align:left;font-size:150%"><strong>I. Robotics and Intelligent Systems</strong></h3>
+            <pre style="text-align:left;font-size:130%"><strong>Baxter Robot for Rubik's Cube Play</strong> | UC Berkeley | Course Project (EE106A)                                        Oct 2016 ~ Present
+            </pre>
+            <ul>
+                <li>Advisor: Ruzena Bajcsy, professor of EECS, UC Berkeley</li>
+            </ul>
+            <br>
+
+            <ol type="1">
+                <li>Led a five-member team, and proposed to develop a Baxter Robot which could solve the Rubik's Cube in a short time;</li>
+                <li>Responsible for the development of the core manipulation part, designed algorithms  to grasp the Cube in three-dimensional
+                location and implemented constrained manipulation, and accomplished extensive coding in Python using ROS;
+                </li>
+                <li>Contributed to developing the image processing part, and currently working on system integration.</li>
+            </ol>  
+
+
+            <br>
+
+            <pre style="text-align:left;font-size:130%"><strong>Intelligent Medical Chest</strong> | BIT | Research Assistant                                                           May 2014–July 2016
+            </pre>
+
+            <ul>
+                <li>Advisor: Jian Yang, professor and vice dean at School of Optoelectronics, BIT</li>
+            </ul>
+            <br>
+
+            <ol type="1">
+                <li>Proposed and developed an intelligent medical chest, which could identify the left tablets and automatically provide them;</li>
+                <li>Implemented the data transmission between the medical chest and mobile terminals through BLE4.0, and developed an App;</li>
+                <li>Applied for two patents, and won the funding support from the National University Student Innovation Program (Top 5%).</li>
+            </ol>
+
+
+            <br>
+
+            <h3 style="text-align:left;font-size:150%"><strong>II. Algorithm and Software Engineering</strong></h3>
+
+            <pre style="text-align:left;font-size:130%"><strong>Hybrid Sparse Representations Image Inpainting</strong> | BIT | Research Assistant                                        Jun 2015- Jul 2016
+            </pre>
+
+            <ul>
+                <li>Advisor: Jian Yang, professor and vice dean at School of Optoelectronics, BIT</li>
+            </ul>
+            <br>
+
+            <ol type="1">
+                <li>Contributed to proposing a new framework for image inpainting, which combines the strength of local and nonlocal sparse representation under the averaging of the Bayesian model;</li>
+                <li>Improved the use of patch clustering, the set of candidates (K-NN), and distance metrics in the proposed framework;</li>
+                <li>Led the algorithm simplification by using the local-sensitive hashing method as well as the algorithm testing, and demonstrated much less image distortion and a larger PSNR, compared with previously reported methods in literature.</li>
+            </ol>
+          </ol>
+    </section>
+    <hr>
+      <h2 style="text-align:left;font-size:200%"><strong>Publication & Patent</strong></h2>
+
+
+    <section>
+    <ol type="1">
+        <li>Publication: Weijian Cong, Jian Yang*, Danni Ai, Gongbo Yang, Xiaohui Liang, Yongtian Wang, 3D ultrasound volume reconstruction using global filling mode, accepted by SPIE. Medical Imaging February 2017. (*research advisor)</li>
+        <li>Publication: Jiahui Dong, Jian Yang*, Gonbo Yang, and Yongtian Wang, "Hybrid Sparse Representation Image Inpainting", to be published</li>
+        <br>
+        <li>Patent:   "An Intellectual Medical Chest", Jian Yang*, Gongbo Yang, CN Patent Application Number: 201610293123.8</li>
+        <li>Patent:   "An Intellectual Medical Chest based on LVDT", Jian Yang*, Gongbo Yang, CN Patent Application Number: 201610445906.3</li>
+        <li>Patent:   "Adjustable output voltage socket", Gongbo Yang, Application Number: PCT/CN2016/090162
+</li>
+
+    </ol>  
+    </section>
+
+	</body>
+
+</html>
+
+
+
+

@@ -1,0 +1,55 @@
+body {margin: 10px 10px 20px 20px;
+        font-size: 120%;
+}
+p {
+    margin: 0;
+}
+form {
+    display: block;
+    text-align: center;
+    background: #F5F5F5;
+}
+th, td {
+    padding: 5px; 
+    text-align: left;
+    vertical-align: middle;
+}
+th {
+    background-color: #7BAEE8;
+}
+table {
+    width: 100%;
+}
+li {
+    margin-top: 5px;
+}
+
+.imageContainer {
+    text-align: center;
+}
+.textEvent {
+    text-align: left;
+    width: 85%;
+}
+.textDate {
+    text-align: right;
+    width: 20%;
+}
+.emphasis {
+    font-weight: bold;
+    color: black;
+}
+.center {
+    text-align: left;
+}
+.photo {
+    width: 150px;
+}
+.listItems {
+    display: block;
+    margin-left: 15px;
+}
+.listItems::before {
+    content: url('/scripts/gongboyang.jpg');
+}
+

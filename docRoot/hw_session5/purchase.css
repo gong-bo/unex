@@ -1,0 +1,29 @@
+.lineItems {
+    margin-left: 20px;
+}
+.item {
+    min-width: 100px;
+    font-size: 15pt;
+}
+
+.subTotal, .reset_lineItem {
+    width: 620px;
+    padding-bottom: 20px;
+    text-align: right;
+}
+
+.tax, .shipping{
+    width: 620px;
+    padding-bottom: 2px;
+    text-align: right;
+    font-size: 13pt;
+}
+button {
+    font-size: 20pt;
+    width: 620px;
+}
+
+.checkoutButton {
+    font-size: 13pt;
+    width: 320px;
+}
